@@ -1,0 +1,22 @@
+{
+    "name": "baileys-addon",
+    "version": "1.0.0",
+    "description": "Library tambahan untuk WhiskeySocket/Baileys",
+    "main": "index.js",
+    "type": "module",
+    "author": "Villagerindo",
+    "license": "MIT",
+    "keywords": [
+        "baileys-addon",
+        "addon",
+        "whatsapp-bot",
+        "wabot",
+        "baileys",
+        "nodejs",
+        "villagerindo"
+    ],
+    "dependencies": {
+        "path": "^0.12.7",
+        "node-fetch": "^2.6.1"
+    }
+}
